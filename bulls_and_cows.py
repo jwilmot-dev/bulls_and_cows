@@ -1,8 +1,7 @@
 #!/usr/bin/python
 # program name: Bulls And Cows Game
 # your name: Justin Wilmot
-# class: ICS 499
-# date: 2022
+
 
 #validate user input
 def input_check(input):
